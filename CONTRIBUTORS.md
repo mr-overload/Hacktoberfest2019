@@ -421,3 +421,11 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+###Kartikeyan Gupta
+
+    Photo: 
+    Location: Maharashtra , India
+    Bio: Computer Science Engineer
+    Github: https://github.com/kartikeyangupta
+
